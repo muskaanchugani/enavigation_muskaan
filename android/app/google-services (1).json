@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40614354810",
+    "project_id": "enav12",
+    "storage_bucket": "enav12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40614354810:android:014b861f4a6e8f307a80c3",
+        "android_client_info": {
+          "package_name": "com.example.untitled6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40614354810-6vk7qifakhsmgp1865dtmh8l4l7s5gd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBd6VTYDSOhpiH6QNfwGaTnFzOTbJOSJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40614354810-6vk7qifakhsmgp1865dtmh8l4l7s5gd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
